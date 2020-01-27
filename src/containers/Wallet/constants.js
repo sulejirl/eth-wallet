@@ -1,0 +1,4 @@
+export const SEARCH_TERM_CHANGED = 'SEARCH_TERM_CHANGED';
+export const CREATE_WALLET = 'CREATE_WALLET';
+
+
